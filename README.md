@@ -1,0 +1,2 @@
+# gofib
+fibonacci in go
